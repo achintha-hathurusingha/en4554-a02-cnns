@@ -1,0 +1,23 @@
+# Dataset (downloaded by torchvision)
+data/
+cifar-10-batches-py/
+*.tar.gz
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Model weights and checkpoints (GitHub rejects files over 100 MB)
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+
+# Logs and OS files
+*.log
+nohup.out
+.DS_Store
+Thumbs.db
