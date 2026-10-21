@@ -1,0 +1,1 @@
+{"name": "task2c_SGD_lr1", "params": 620362, "device": "Quadro RTX 5000", "seed": 0, "diverged": true, "train_loss": [NaN], "val_loss": [NaN], "val_acc": [0.0964], "train_acc": [], "epoch_time": [2.370338046021061]}
